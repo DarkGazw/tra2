@@ -1,0 +1,56 @@
+header {
+    background: rgba(0,0,0,0.7);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    top: 0;
+  }
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: darkviolet;
+}
+p {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+ul {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aqua;
+}
+body { 
+    position: bottom;
+    background-color:darksalmon
+}
+nav {
+    float: left;
+}
+nav ul {
+    list-style: none;
+    overflow: hidden; 
+  }
+
+nav ul li {
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;;
+    font-size: 20px;}
+
+nav ul li a {
+    display: block; 
+    padding: 20px;
+    color: #fff;
+    text-decoration: none;
+    }
+
+nav ul li:hover {
+    background: #eca023;
+    }
+body { 
+    margin-top: 100px;
+    position: bottom;
+    background-color:darksalmon
+    }
+
+section {
+    display:contents;
+}
